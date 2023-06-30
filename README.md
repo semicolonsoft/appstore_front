@@ -1,3 +1,23 @@
+# signup and login in two mode(dev & user)
+![Screenshot from 2023-06-30 19-29-03 png](https://github.com/semicolonsoft/appstore_front/assets/68298277/81dedb60-2a52-499a-a8d1-f23dc2b96590)
+
+
+# view apps and games in some categories
+![Screenshot from 2023-06-30 19-39-27 png](https://github.com/semicolonsoft/appstore_front/assets/68298277/5bbf497e-0906-4e60-b012-cc70de019d14)
+
+# publish apps and games like GTA-5
+![Screenshot from 2023-06-30 19-33-57 png](https://github.com/semicolonsoft/appstore_front/assets/68298277/2f301491-d15e-4c9b-b721-990616f6bd7c)
+
+# publish apps and games like GTA-5
+![Screenshot from 2023-06-30 19-33-57 png](https://github.com/semicolonsoft/appstore_front/assets/68298277/ab2a858c-c815-4c1b-9535-fc48e2edb6ce)
+
+
+# view apps and games like GTA-5 and leave some comments and can download theme
+![Screenshot from 2023-06-30 19-40-20 png](https://github.com/semicolonsoft/appstore_front/assets/68298277/33ae82c2-43b7-49f0-ab0f-b0cdceb620c2)
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
